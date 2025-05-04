@@ -41,21 +41,24 @@ A simple, modular restaurant management system built in Java. This application l
 
 Receipt Sample:
 ==================================================
-                Delicious Bites
+                🍽️ Delicious Bites
 ==================================================
-Order #: 1002
-Date: 2025-05-04 14:22:33
-Customer: John Doe
-Table #: 5
+Order #: 1003
+Date: 2025-05-04 20:10:22
+Customer Name: Sarah Khan
+Table #: 7
 --------------------------------------------------
-ITEMS
+Items Ordered:
 --------------------------------------------------
-Spaghetti Carbonara        $14.99 x 2 = $29.98
-Garlic Bread               $4.99  x 1 = $4.99
+1. Chicken Alfredo Pasta     $13.99 x 2 = $27.98
+2. Garlic Bread              $4.50  x 1 = $4.50
+3. Lemonade                  $3.25  x 2 = $6.50
 --------------------------------------------------
-Subtotal:                             $34.97
-Tax (8%):                             $2.80
-TOTAL:                                $37.77
+Subtotal:                               $38.98
+Tax (8%):                               $3.12
+--------------------------------------------------
+TOTAL:                                  $42.10
 ==================================================
-      Thank you for dining with us!
+         ❤️ Thank you for dining with us!
+       Visit again for more delicious bites!
 ==================================================
